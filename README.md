@@ -27,18 +27,23 @@ This is a React-based web application that helps users split expenses and minimi
 
 2. **Install Dependencies**:
 
-Run the following command - 
-
-```bash
-npm install 
-```
+   Run the following command - 
+   
+   ```bash
+   npm install 
+   ```
 
 3. **Start the development Server**:
 
-```bash
-npm start
-```
-The application will be available at http://localhost:3000
+   ```bash
+   npm start
+   ```
+   The application will be available at http://localhost:3000
+
+## Future Enhancements
+
+- Add User Authentication
+- Add Feature to create multiple groups
 
 
 
