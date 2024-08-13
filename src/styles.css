@@ -1,0 +1,55 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .AppBar {
+    background-color: #1f1f1f;
+  }
+  
+  button, input, select {
+    margin: 10px;
+    padding: 10px;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+  }
+  
+  button:hover, input:hover, select:hover {
+    background-color: #333333;
+  }
+  
+  label {
+    color : white;
+    display: block;
+    margin: 10px 0;
+  }
+  
+  form {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin: 20px 0;
+  }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333333;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+button {
+  margin-left: 10px;
+}
+
+
